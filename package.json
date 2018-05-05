@@ -1,0 +1,26 @@
+{
+  "name": "wheremoneygoes",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "@types/react": "^16.3.13",
+    "@types/react-dom": "^16.0.5",
+    "parcel-bundler": "^1.8.1",
+    "typescript": "^2.8.3"
+  },
+  "dependencies": {
+    "antd": "^3.5.0",
+    "mobx": "^4.2.1",
+    "mobx-react": "^5.1.2",
+    "mobx-state-tree": "^2.0.4",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "theme": {
+    "primary-color": "#1DA57A"
+  }
+}
